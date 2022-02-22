@@ -46,6 +46,8 @@ a:hover {
 
 .bloc-lg {
     padding: 100px 50px;
+    display: flex;
+    justify-content: center;
 }
 
 .bloc-md {
@@ -363,7 +365,7 @@ a:hover {
     .site-navigation {
         position: absolute;
         top: 50%;
-        right: 50px;
+        right: 150px;
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
     }

@@ -46,8 +46,6 @@ a:hover {
 
 .bloc-lg {
     padding: 100px 50px;
-    display: flex;
-    justify-content: center;
 }
 
 .bloc-md {
@@ -103,6 +101,8 @@ a:hover {
 
 .d-bloc {
     color: rgba(255, 255, 255, .7);
+    display: flex;
+    justify-content: center;
 }
 
 .d-bloc button:hover {

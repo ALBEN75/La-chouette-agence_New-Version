@@ -46,8 +46,12 @@ a:hover {
 
 .bloc-lg {
     padding: 100px 50px;
+}
+
+.bloc-lg1{
     display: flex;
     justify-content: center;
+    padding: 100px 50px;
 }
 
 .bloc-md {
@@ -509,6 +513,8 @@ button {
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
+    width: 200px;
+    height: 20px;
 }
 
 .scrollToTop {
@@ -742,6 +748,8 @@ h4 {
 
 .white {
     color: black!important;
+    display: flex;
+    justify-content: center;
 }
 
 .portfolio-thumb {

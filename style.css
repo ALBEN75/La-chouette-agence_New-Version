@@ -441,6 +441,16 @@ nav .caret {
     float: right;
 }
 
+.background{
+    background-color: #8a4f17c9;
+    border-radius: 50%;
+    opacity: 80%;
+    padding: 5%;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;

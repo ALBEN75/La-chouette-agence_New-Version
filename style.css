@@ -442,8 +442,8 @@ nav .caret {
 }
 
 .background{
-    background-color: #8a4f17c9;
-    border-radius: 50%;
+    background-color: #050301b2;
+    border-radius: 40%;
     opacity: 80%;
     padding: 5%;
     width: 50%;
@@ -455,7 +455,9 @@ nav .caret {
     margin-top: 10px;
     margin-bottom: 20px;
 }
-
+.md-mg{
+    color: #F3976C !important;
+}
 .mg-lg {
     margin-top: 10px;
     margin-bottom: 40px;
